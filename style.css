@@ -1,0 +1,42 @@
+#Titulo{
+    color: rgb(23, 155, 18);
+    font-size: 2em;
+    text-align: center;
+}
+
+#inputTarefa{
+    background-color: rgba(15, 8, 8, 0.493);
+    color: rgb(23, 155, 18);
+    width: 50%;
+    padding: 3px;
+    height: 30px;
+    border: 2px solid rgb(23, 155, 18);
+    font-size: 1em;
+    margin-bottom: 10px;
+    text-align: center;
+    outline:none 
+
+}
+
+#btnAddTarefa{
+
+    background-color: rgb(23, 155, 18);
+    color: rgb(255, 255, 255);
+   
+}
+
+#tarefas{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#Titulo{ 
+    font-size: 50px; 
+
+
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.95);
+}
